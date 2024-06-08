@@ -2,10 +2,15 @@
     width: 100%;
     text-align: center;
 }
-  
+
+#botones_menu{
+    font-size: 25px;
+    font-weight: bold;
+}
+
 .dark-mode {
     background-color: black;
-    color: white;
+    color: white;   
   }
 
 /* Estilos para pantallas de computadora */
