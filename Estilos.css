@@ -8,6 +8,17 @@
     font-weight: bold;
 }
 
+#botones_menu_seleccionado{
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+}
+
+#boton_dark_mode{
+    color: rgb(34, 24, 126);
+    font-weight: bold;
+}
+
 .dark-mode {
     background-color: black;
     color: white;   

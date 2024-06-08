@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const toggleModeButton = document.getElementById('toggle-mode');
+    const toggleModeButton = document.getElementById('boton_dark_mode');
     const body = document.body;
 
     // Verifica si el modo nocturno está activado en localStorage
